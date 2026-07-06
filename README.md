@@ -1,2 +1,28 @@
-# f57ca5d8-podcast-production-client-crm
-The podcast production tool you'd build yourself — if you had the time.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Podcast Production Client Crm And Pipeline — fully configured and ready to use - Pre-built datab
+# Podcast Production Client CRM and Pipeline Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm6oH8v5gaU9JKcDWcZF30)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm6oH8v5gaU9JKcDWcZF30)
+
